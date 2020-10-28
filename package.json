@@ -11,7 +11,7 @@
     "node-sloc": "^0.1.11",
     "parse-gitignore": "^0.5.1",
     "ts-node": "^7.0.0",
-    "ts-node-dev": "^1.0.0-pre.26",
+    "ts-node-dev": "1.0.0-pre.25",
     "tslint": "^5.10.0",
     "typescript": "^2.9.2"
   },
